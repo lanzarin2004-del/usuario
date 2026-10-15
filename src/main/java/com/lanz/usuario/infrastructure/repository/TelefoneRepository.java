@@ -1,6 +1,7 @@
 package com.lanz.usuario.infrastructure.repository;
 
-import com.estudosjava.aprendendospring.infrastructure.entity.Telefone;
+
+import com.lanz.usuario.infrastructure.entity.Telefone;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
