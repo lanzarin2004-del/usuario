@@ -4,7 +4,6 @@ import com.lanz.usuario.business.UsuarioService;
 import com.lanz.usuario.business.dto.EnderecoDTO;
 import com.lanz.usuario.business.dto.TelefoneDTO;
 import com.lanz.usuario.business.dto.UsuarioDTO;
-import com.lanz.usuario.infrastructure.entity.Usuario;
 import com.lanz.usuario.infrastructure.security.JwtUtil;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

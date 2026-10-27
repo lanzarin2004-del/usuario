@@ -134,7 +134,7 @@ public class UsuarioConverter {
         return Telefone.builder()
                 .ddd(dto.getDdd())
                 .numero(dto.getNumero())
-                .id(idUsuario)
+                .usuario_id(idUsuario)
                 .build();
     }
 }
